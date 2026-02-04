@@ -1,4 +1,4 @@
-package de.polyfish0.adolightstickemulator.ble.composeable
+package de.polyfish0.adolightstickemulator.composables
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.size
